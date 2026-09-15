@@ -1,6 +1,6 @@
 ---
 name: dispatch
-description: Use when the user asks to spawn, dispatch, or consult an external coding agent CLI — agy (Google Antigravity CLI: Gemini, Claude, GPT-OSS models), Grok CLI (xAI, composer models), opencode (OpenCode Zen catalog, free and paid tiers), or Codex CLI (OpenAI) — for a second opinion, independent code review, repository scan, analysis, or automated edits outside the current session. Also handles first-time setup (which CLIs are installed) and reconfiguring that list or auto-mode later. Triggers on "agy", "antigravity", "grok", "minimax", "opencode", "glm", "codex", "dispatch", "second opinion from another model", "set up dispatch", "reconfigure dispatch tools".
+description: 'Use when the user asks to spawn, dispatch, or consult an external coding agent CLI — agy (Google Antigravity CLI — Gemini, Claude, GPT-OSS models), Grok CLI (xAI, composer models), opencode (OpenCode Zen catalog, free and paid tiers), or Codex CLI (OpenAI) — for a second opinion, independent code review, repository scan, analysis, or automated edits outside the current session. Also handles first-time setup (which CLIs are installed) and reconfiguring that list or auto-mode later. Triggers on "agy", "antigravity", "grok", "minimax", "opencode", "glm", "codex", "dispatch", "second opinion from another model", "set up dispatch", "reconfigure dispatch tools".'
 ---
 
 # Dispatch: External Coding Agents
